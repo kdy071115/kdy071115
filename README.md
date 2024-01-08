@@ -37,7 +37,7 @@ __________________________________
   ## 📄 My stack 📄
   
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
-   <p><strong>Frontend</strong></p>
+<!--    <p><strong>Frontend</strong></p>
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
 <img src="https://img.shields.io/badge/html-E34F26?style=flat-square&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"/>
@@ -67,5 +67,5 @@ __________________________________
 </a>
 <a href="https://open.kakao.com/o/siv6oI1f">
   <img src="https://img.shields.io/badge/kakaotalk-FFCD00?style=flat-square&logo=kakaotalk&logoColor=black"/>
-</a>
+</a> -->
 </div>
