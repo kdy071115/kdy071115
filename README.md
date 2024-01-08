@@ -5,14 +5,15 @@
 
 __________________________________
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GSMIOTjgh&show_icons=true&title_color=FF1F6F&text_color=55D7E7&bg_color=000000&icon_color=FCED6C)](https://github.com/GSMIOTjgh/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kdy071115&show_icons=true)](https://github.com/kdy071115/github-readme-stats)
+
 
 ## 💻 DEV's log 💻
 <div style="display:flex; flex-direction:row;">
-    <a href="https://velog.io/@jgh/posts">
+    <a href="https://velog.io/@kdy071115/posts">
         <img src="https://img.shields.io/badge/Velog-20c997?style=for-the-badge&logo=Vimeo&logoColor=white"> 
     </a>
-  <a href="https://github.com/GSMIOTjgh">
+  <a href="https://github.com/kdy071115">
     <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"/>
 </div>
   </a>
@@ -23,10 +24,10 @@ __________________________________
     <a href="mailto:s23054@gsm.hs.kr">
         <img src="https://img.shields.io/badge/gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
     </a>
-    <a href="https://open.kakao.com/o/siv6oI1f">
+    <a href="https://open.kakao.com/o/sK1qgx2f">
       <img src="https://img.shields.io/badge/kakaotalk-FFCD00?style=flat-square&logo=kakaotalk&logoColor=black"/>   
     </a>
-    <a href="https://www.instagram.com/jgh10169">
+    <a href="https://www.instagram.com/kdy_aie">
          <img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/>
     </a>
 
