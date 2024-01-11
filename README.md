@@ -6,6 +6,8 @@ __________________________________
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%2379DFF8&title_bg=%2342AAF4&title=Visits&edge_flat=false)](https://hits.seeyoufarm.com)
 
+
+
 ## 💻 DEV's log 💻
 <div style="display:flex; flex-direction:row;">
     <a href="https://velog.io/@kdy071115/posts"target="_blank">
