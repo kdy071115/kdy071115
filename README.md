@@ -10,7 +10,7 @@ __________________________________
 ## 💻 DEV's log 💻
 <div style="display:flex; flex-direction:row;">
     <a href="https://velog.io/@kdy071115/posts"target="_blank">
-        <img src="https://img.shields.io/badge/Velog-20c997?style=for-the-badge&logo=Vimeo&logoColor=white&size"> 
+        <img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white&size"> 
     </a>
   <a href="https://github.com/kdy071115">
     <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"/>
