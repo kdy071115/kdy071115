@@ -18,7 +18,7 @@ __________________________________
   </a>
 </div>
 
-## 📞 Contact 📞
+## 📞 Contact 
 <div style="display:flex; flex-direction:row;">
     <a href="mailto:s23054@gsm.hs.kr">
         <img src="https://img.shields.io/badge/gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
@@ -33,7 +33,7 @@ __________________________________
 
 
   
-  ## 📄 My stack 📄
+  ## 📄 My stack 
   
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
 <!-- Backend -->
