@@ -1,4 +1,4 @@
-<div align="left">
+⁹<div align="left">
 <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=header&text=Hello%20I'm%20kdy071115&fontSize=70" />
 __________________________________
  
@@ -18,7 +18,7 @@ __________________________________
   </a>
 </div>
 
-## 📞  
+## 📞     
 <div style="display:flex; flex-direction:row;">
     <a href="mailto:s23054@gsm.hs.kr">
         <img src="https://img.shields.io/badge/gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
