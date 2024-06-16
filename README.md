@@ -1,7 +1,7 @@
 ⁷⁹<div align="left">
 <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=header&text=HI%20I'm%20kaidey&fontSize=70" />
 __________________________________
- 1
+ 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kdy071115&theme=buefy&icons=true)
 
  
